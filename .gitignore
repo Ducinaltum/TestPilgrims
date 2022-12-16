@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/Bocetos/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -42,6 +43,8 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.psd
+*.blend1
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -52,8 +55,8 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
 *.unitypackage
+archivo.ext
 
 # Crashlytics generated file
 crashlytics-build.properties
